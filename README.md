@@ -2,9 +2,12 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+![image](https://github.com/justinmccuff/justinmccuff/assets/143865133/a52a50b4-6c20-4757-ae93-188c61435bfd)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Post-Installation Configuration](https://github.com/justinmccuff/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/justinmccuff/ticket-lifecycle)
+
+![image](https://github.com/justinmccuff/justinmccuff/assets/143865133/9b599bdd-da1c-4553-8bd4-62afa5ca0c6b)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/justinmccuff/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/justinmccuff/azure-network-protocols)
